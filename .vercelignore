@@ -1,0 +1,12 @@
+# Old Ghost install — not deployed
+/content
+/versions
+/current
+/.ghost-cli
+/config.development.json
+/jellyfin.css
+
+# Build artifacts
+/.next
+/node_modules
+/.vercel
